@@ -1,0 +1,23 @@
+omzet-mapping/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   │   ├── models.py
+│   │   └── utils.py
+│   ├── migrations/
+│   ├── tests/
+│   ├── .env
+│   ├── config.py
+│   ├── requirements.txt
+│   └── run.py
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── .env
+│   ├── package.json
+│   └── README.md
+├── data/
+├── models/
+├── .gitignore
+└── README.md
